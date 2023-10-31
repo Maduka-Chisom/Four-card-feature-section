@@ -42,7 +42,6 @@ body {
   display: grid;
   justify-items: center;
   min-height: 100vh;
-  background-color: var(--Very-Light-Gray);
   font-family: var(--font-family);
   font-weight: var(--font-wg-reg);
   color: var(--Grayish-Blue);
